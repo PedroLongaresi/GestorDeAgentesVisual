@@ -1,0 +1,21 @@
+{
+  "name": "hermes-virtual-office",
+  "version": "1.0.0",
+  "description": "2D Cyberpunk / Industrial Virtual Office to monitor and orchestrate Multi-Agent AI development squads in real time",
+  "main": "monitor-server.js",
+  "scripts": {
+    "start": "node monitor-server.js"
+  },
+  "keywords": [
+    "ai-agents",
+    "multi-agent-systems",
+    "virtual-office",
+    "observability",
+    "orchestration",
+    "gather-town",
+    "llm-agents",
+    "human-in-the-loop"
+  ],
+  "author": "Longaresi",
+  "license": "MIT"
+}
